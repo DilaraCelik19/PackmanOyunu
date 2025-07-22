@@ -1,5 +1,5 @@
 # PackmanOyunu
-#Bu proje, klasik Pacman oyunundan esinlenerek geliştirilmiş bir 2D oyundur. Oyuncu, labirent içinde sarı karakteri (Pakman) yönlendirerek yemleri toplar ve #hayaletlerden kaçar. Amaç en yüksek puanı toplamak ve tüm yemleri bitirmektir.
+Bu proje, klasik Pacman oyunundan esinlenerek geliştirilmiş bir 2D oyundur. Oyuncu, labirent içinde sarı karakteri (Pakman) yönlendirerek yemleri toplar ve hayaletlerden kaçar. Amaç en yüksek puanı toplamak ve tüm yemleri bitirmektir.
 #Oyun Özellikleri
 #Hareket edebilen Pakman karakteri
 #Düşman (hayalet) yapay zekası
